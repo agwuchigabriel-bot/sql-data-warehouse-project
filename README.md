@@ -39,7 +39,7 @@ This project is licensed under the [MIT License](License). You are free to use, 
 
 ## About Me
 
-Hello! I'm ** Gabriel O'Ogwu Agwuchi**, also known as **O.G.A** , I am an IT enthusiast, with a keen interest of enabling and empowering individuals and companies make informed decisions via data analytics.
+Hello! I'm **Gabriel O'Ogwu Agwuchi**, also known as **O.G.A** , I am an IT enthusiast, with a keen interest of enabling and empowering individuals and companies make informed decisions via data analytics.
 
 
 
